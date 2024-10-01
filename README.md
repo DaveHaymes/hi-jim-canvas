@@ -1,4 +1,4 @@
-# 🎨 Hi Jim Canvas - Canvas Object Manipulation!
+# 🎨 Hi Jim Canvas - Canvas Object Manipulation
 
 Welcome to **Hi Jim Canvas**! This project showcases how to use the HTML5 Canvas element for creating interactive and dynamic text and object animations. It's been designed as a very basic example for my friend Jim to demonstrate some of my experience using canvas manipulation.
 
@@ -72,7 +72,7 @@ The project is easily customizable. Feel free to dive into the `assets/js/custom
 
 ### Options Menu
 
-![Options Menu](https://davehaymes-github.s3.us-west-1.amazonaws.com/9010d5cf12d286ba9e98fd77189f2528d00fbba2.png)
+![Options Menu](https://davehaymes-github.s3.us-west-1.amazonaws.com/07cb297e38ca87279320b4bfcf70b3f1ebc36186.png)
 
 ### Debug Information
 
