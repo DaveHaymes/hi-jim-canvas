@@ -64,8 +64,6 @@ The project is easily customizable. Feel free to dive into the `assets/js/custom
 - **JavaScript** for handling animations, user inputs, and canvas manipulation.
 - **Bootstrap 5** for the responsive layout and styling.
 
----
-
 ## 📸 Screenshots
 
 ### Overview Image
