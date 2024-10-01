@@ -64,6 +64,24 @@ The project is easily customizable. Feel free to dive into the `assets/js/custom
 - **JavaScript** for handling animations, user inputs, and canvas manipulation.
 - **Bootstrap 5** for the responsive layout and styling.
 
+---
+
+## 📸 Screenshots
+
+### Overview Image
+
+![Overview Image](https://davehaymes-github.s3.us-west-1.amazonaws.com/af30452ccfe546e3a42017ac6ead8c61f3f4bdcd.png)
+
+### Options Menu
+
+![Options Menu](https://davehaymes-github.s3.us-west-1.amazonaws.com/9010d5cf12d286ba9e98fd77189f2528d00fbba2.png)
+
+### Debug Information
+
+![Debug Information](https://davehaymes-github.s3.us-west-1.amazonaws.com/e2f90fecf21468d1171c31995f4373706c18b265.png)
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
